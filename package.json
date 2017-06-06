@@ -1,0 +1,16 @@
+{
+  "name": "scroll-memory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scroll-memory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server './' -p 9527 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
